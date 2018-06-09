@@ -7533,3 +7533,9 @@ Created using IcoMoon - icomoon.io
         transform: translateY(-50%);
     }
 }
+.over-img{
+  color: #FFFFFF;
+  background-color: #5AA897;
+  padding: 5px 10px;
+  line-height: 2em;
+}
